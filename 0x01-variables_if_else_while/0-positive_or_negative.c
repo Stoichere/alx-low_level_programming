@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/**
+ * main - main block
+ * Description - random numbers
+ * Return: 0
+ */
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
