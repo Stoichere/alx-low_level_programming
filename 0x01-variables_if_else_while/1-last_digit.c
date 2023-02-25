@@ -20,11 +20,11 @@ int main(void)
 	/* your code goes there */
 	if (num > 5)
 	{
-		printf("%d, is greater than 5\n", num);
+		printf("%d and is greater than 5\n", num);
 	}
 	else if ((num < 6) && (num < 0))
 	{
-		printf("%d is less than 6 and not 0\n", num);
+		printf("%d and is less than 6 and not 0\n", num);
 	}
 	else
 	{
