@@ -12,9 +12,9 @@
  */
 int main(void)
 {
-	int letter;
+	char letter;
 
-	for (letter = '9'; letter >= '0'; letter--)
+	for (letter = 'z'; letter >= 'a'; letter--)
 		putchar(letter);
 
 	putchar('\n');
